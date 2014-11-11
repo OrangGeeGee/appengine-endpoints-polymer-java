@@ -1,4 +1,4 @@
-appengine-endpoints-polymer-java
-================================
+endpoints-polymer-material-tutorial
+===================================
 
-Devoxx 2014 Code Lab for App Engine Endpoints and Polymer. Maven version, not Eclipse.
+Code for the Google stack tutorial: Cloud Endpoints, Polymer, Material design
